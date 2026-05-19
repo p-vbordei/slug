@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/slug/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/slug/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/%40p-vbordei%2Fslug.svg)](https://www.npmjs.com/package/@p-vbordei/slug)
+[![downloads](https://img.shields.io/npm/dm/%40p-vbordei%2Fslug.svg)](https://www.npmjs.com/package/@p-vbordei/slug)
+[![bundle](https://img.shields.io/bundlejs/size/%40p-vbordei%2Fslug)](https://bundlejs.com/?q=%40p-vbordei%2Fslug)
+
 URL-safe slugifier with explicit transliteration for the languages most likely to mangle naive normalization — Romanian, German, French, Polish, Czech, Turkish, Russian/Ukrainian, Greek, plus common symbols. Zero dependencies.
 
 ```ts
