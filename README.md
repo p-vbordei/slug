@@ -1,5 +1,7 @@
 # slug
 
+[![ci](https://github.com/p-vbordei/slug/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/slug/actions/workflows/ci.yml)
+
 URL-safe slugifier with explicit transliteration for the languages most likely to mangle naive normalization — Romanian, German, French, Polish, Czech, Turkish, Russian/Ukrainian, Greek, plus common symbols. Zero dependencies.
 
 ```ts
